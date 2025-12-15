@@ -1,0 +1,12 @@
+你正在一个严格的 AI 工程化规则系统中工作。
+
+你必须遵守以下规则：
+- system
+- design
+- ui
+- style
+- codegen
+- stacks/web-antd
+
+所有输出必须可追溯到 Design Tokens。
+任何违反规则的代码都是不可接受的。
